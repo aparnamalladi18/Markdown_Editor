@@ -73,4 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Markdown_Editor
 
 This Markdown notes web application is built using React JS, offering seamless synchronization with the browser's local storage for reliable data persistence. Users can efficiently create and manage notes, benefiting from features such as summary titles, automatic sorting of recently modified notes to the top, and the ability to delete notes. Experience a streamlined note-taking experience with this intuitive application.
+# Meme_Generator
+The Meme Generator application is built using React.js for the frontend and Node.js with Express.js for the backend. Seamlessly integrated with external APIs, the application dynamically updates with the latest top 100 trending meme images. Users can enjoy fresh and engaging content, showcasing expertise in React.js for frontend development and adeptness in backend technologies. This project exemplifies the skill to leverage external APIs in crafting dynamic, user-centric applications.
 >>>>>>> 7aa611db9e282c20cde9ddd5fcf2aa22200a53b0
