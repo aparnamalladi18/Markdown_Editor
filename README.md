@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Markdown_Editor
+
+This Markdown notes web application is built using React JS, offering seamless synchronization with the browser's local storage for reliable data persistence. Users can efficiently create and manage notes, benefiting from features such as summary titles, automatic sorting of recently modified notes to the top, and the ability to delete notes. Experience a streamlined note-taking experience with this intuitive application.
+>>>>>>> 7aa611db9e282c20cde9ddd5fcf2aa22200a53b0
